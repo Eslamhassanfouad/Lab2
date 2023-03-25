@@ -1,0 +1,7 @@
+This is Test file for Test branch 
+
+to delete this branch localy
+$ git branch -d test
+
+to delete this branch remot.
+$ git push origin --d test
