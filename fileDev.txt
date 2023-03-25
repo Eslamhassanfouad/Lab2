@@ -1,7 +1,7 @@
 This is Dev folder for Dev branch only 
 
 to delete this branch localy 
-$ git dev -d
+$ git branch -d dev
 
 to delete this branch remot.
 $ git push origin --delete dev
